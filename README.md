@@ -12,7 +12,7 @@ https://docs.google.com/spreadsheets/d/1mF7R4UjTlaWFxQ37DkvkmHKZf8Md8zku0kyRNF3H
 4)Регрессионное тестирование мобильного приложения Яндекс метро:
 https://docs.google.com/spreadsheets/d/189HuMJttCBjEXvCc9pj7vg8joXOzuxg1NcA7F0ZvdmU/edit?gid=608133115#gid=608133115
 
-5)Тестирование новой функциаональности в api Яндекс.Прилавка:
+5)Тестирование новой функциональности в api Яндекс.Прилавка:
 https://docs.google.com/spreadsheets/d/1JKl6sxIuuBgOtu7ERoN9qKGmEHl6EXDhdwFkTxZMwZM/edit?gid=1971224135#gid=1971224135
 
 6)Диплом.Тестирование приложения Яндекс.Самокат:
